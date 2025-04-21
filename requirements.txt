@@ -1,0 +1,6 @@
+discord.py
+audioop-lts; python_version>='3.13'
+beautifulsoup4
+python-dotenv
+rich
+requests
